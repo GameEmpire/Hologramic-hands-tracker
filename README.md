@@ -13,8 +13,8 @@ Ologra is an experimental 3D hand-control project that uses a webcam to track ha
 - Depth calibration
 - Floor grid, shadows, hover highlights, and a hand-tracking preview
 
-<img width="798" height="630" alt="Untitled design" src="https://github.com/user-attachments/assets/0f181682-b714-4a7d-b796-1be5026dd138" />
-<img width="798" height="630" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/9fa19ef1-8ae4-4f41-ac32-64336df6950a" />
+<img width="598.5" height="472.5" alt="Untitled design" src="https://github.com/user-attachments/assets/0f181682-b714-4a7d-b796-1be5026dd138" />
+<img width="598.5" height="4722.5" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/9fa19ef1-8ae4-4f41-ac32-64336df6950a" />
 
 
 ## Controls
