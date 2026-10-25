@@ -63,4 +63,4 @@ Experimental project. Features have been tested in the development environment.
 
 ## License
 
-No open-source license has been specified yet.
+MIT license. Can be used commercially.
