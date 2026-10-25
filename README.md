@@ -42,7 +42,7 @@ python3 -m pip install opencv-python mediapipe pygame
 Run the project:
 
 ```bash
-python3 Hand_hologram.py
+python3 Hand tracker.py
 ```
 
 Camera availability and compatibility depend on your hardware and software environment.
